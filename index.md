@@ -3,9 +3,22 @@ permalink: index.html
 site: sandpaper::sandpaper_site
 ---
 
-The best way to learn how to program is to do something useful,
-so this introduction to Python is built around a common scientific task:
-**data analysis**.
+Welcome everyone!
+
+
+This course is meant to be in conjunction with the Bash and Git modules of the Software carpentries course. The major portion of this course is desined for people with some experience in Python. Essentially meaning that you can write 'some' code in Python, but not a 'good' code in Python.
+
+::::::::::::::::::::::::::::::::::::::::::  callout
+
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
+::::::::::::::::::::::::::::::::::::::::::
+
+Why should other humans be able to understand your code? Because, without clear and understandable code, it becomes difficult for others (and even yourself) to maintain, debug, and extend the code in the future.
+
+The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: **data analysis**.
+
+Let us consider the following scenario:
 
 ### Scenario: A Miracle Arthritis Inflammation Cure
 
@@ -52,6 +65,8 @@ patient was experiencing inflammation six times on the seventh day of the clinic
 
 In order to analyze this data and report to our colleagues, we'll have to learn a little bit
 about programming.
+
+The thing we shall keep in mind is to write code that is easy to read, understand, and maintain by others (and ourselves in the future).
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
