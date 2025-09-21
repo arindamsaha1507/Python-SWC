@@ -1,0 +1,21 @@
+# Python Dependencies for Software Carpentry Sample Code
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing libraries
+numpy>=1.19.0
+matplotlib>=3.3.0
+
+# For enhanced debugging and development (optional)
+ipython>=7.16.0
+
+# For command-line argument parsing (included in Python standard library, listed for clarity)
+# argparse - included in Python 3.2+
+
+# Note: The following are part of Python's standard library:
+# - os
+# - sys  
+# - glob
+# - pathlib
+# - logging
+# - csv
+# - json
